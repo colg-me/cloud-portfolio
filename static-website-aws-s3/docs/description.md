@@ -72,5 +72,5 @@ The setup simulates a real-world scenario where static websites can serve person
 
 ---
 
-👨‍💻 Author: G  
+👨‍💻 Author: CG  
 📅 Year: 2025
