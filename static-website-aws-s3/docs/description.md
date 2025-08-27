@@ -50,12 +50,14 @@ The setup simulates a real-world scenario where static websites can serve person
 ---
 
 ## 📸 Screenshots
+
+### 1. Allow Public Access
 ![S3 Allow Public Access](screenshots/allow-public-access.png)
 
-### 2. Bucket Permissions
+### 2. Bucket Policy
 ![S3 Bucket Policy](screenshots/policy-applied.png)
 
-### 3. Static Website Hosting Settings
+### 3. S3 Objects
 ![S3 Objects](screenshots/s3-objects.png)
 
 ### 4. Website Running in Browser
